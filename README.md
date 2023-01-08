@@ -1,4 +1,4 @@
-Hi 👋 My name is Deng Lual M.
+Hi 👋 My name is Deng Lual 
 =============================
 
 Web Developer and Designer
