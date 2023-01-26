@@ -1,7 +1,7 @@
 Hi 👋 My name is Deng Lual 
 =============================
 
-Web Developer and Designer
+A Web Developer
 --------------------------
 
 I've been learning to Code for a year now and have develop a passion in frontend development i.e HTML and CSS
